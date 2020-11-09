@@ -1,0 +1,4 @@
+C:\myData\programing\fb2ToText\fb2ToText\bin\Release\fb2ToText.exe
+C:\myData\programing\fb2ToText\fb2ToText\bin\Release\fb2ToText.pdb
+C:\myData\programing\fb2ToText\fb2ToText\obj\x86\Release\fb2ToText.exe
+C:\myData\programing\fb2ToText\fb2ToText\obj\x86\Release\fb2ToText.pdb
