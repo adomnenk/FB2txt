@@ -3,7 +3,7 @@
     <h1 align="center">fb2txt converter</h1>
     <p align="center">
         converts fb2 files to text
-		wrote by Anatoly Domnenko, Israel
+		wrote by Anatoly Domnenko, Israel.
 	</p>
     <p align="center">
         <a href="https://github.com/adomnenk/FB2txt/"/></a>
