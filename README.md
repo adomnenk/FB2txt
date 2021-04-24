@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿<p align="center">
     <h1 align="center">fb2txt converter</h1>
     <p align="center">
@@ -29,3 +30,7 @@ this app has config file: fb2ToText.exe.config, which apears in a root folder,
 ### Examples:
 In order to convert all fb2 files in `c:\books\
 type in command line: $fb2ToText c:\books
+=======
+# FB2txt
+it's converter FB2 to text format.
+>>>>>>> 9bee2ae329960cba323a86f2228779e89b060087
