@@ -1,17 +1,8 @@
-<<<<<<< HEAD
-﻿<p align="center">
-    <h1 align="center">fb2txt converter</h1>
-    <p align="center">
         converts fb2 files to text
 		wrote by Anatoly Domnenko, Israel.
-	</p>
-    <p align="center">
-        <a href="https://github.com/adomnenk/FB2txt/"/></a>
-        
-    </p>
-    <hr>
-</p>
 
+       place: href="https://github.com/adomnenk/FB2txt/
+        
 - fb2txt has no dependencies and does not require installation or any kind
 - it convert a text during to try to find a text encoding related to a FB2 file.
 - in the config file: fb2ToText.exe.config you have the folloing properties:
@@ -33,4 +24,4 @@ type in command line: $fb2ToText c:\books
 =======
 # FB2txt
 it's converter FB2 to text format.
->>>>>>> 9bee2ae329960cba323a86f2228779e89b060087
+
